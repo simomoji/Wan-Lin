@@ -1,6 +1,6 @@
 # Hi there, I'm Lin Wan 👋
 
-I am currently a sophomore majoring in **Software Engineering** at **Nanjing University of Posts and Telecommunications (NJUPT)**. I am passionate about backend development, distributed systems, and the cloud-native ecosystem.
+I am currently a sophomore majoring in Software Engineering at Nanjing Tech University (NJTECH).. I am passionate about backend development, distributed systems, and the cloud-native ecosystem.
 
 ### 🔭 Currently Learning
 - Advanced Data Structures and Algorithms
