@@ -1,4 +1,4 @@
-# Hi there, I'm XinYue Zhao 👋
+# Hi there, I'm Lin Wan 👋
 
 I am currently a sophomore majoring in **Software Engineering** at **Nanjing University of Posts and Telecommunications (NJUPT)**. I am passionate about backend development, distributed systems, and the cloud-native ecosystem.
 
